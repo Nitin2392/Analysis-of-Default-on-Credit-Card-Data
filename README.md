@@ -1,6 +1,6 @@
 # Analysis-of-Default-on-Credit-Card-Data
 
-In this data analysis exercise, our team has come up with a solution to address business intelligence questions that arose from the Credit Card Data set that we obtained from [Kaggle](http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients). A relevant paper on the same data set is present [here](https://www.sciencedirect.com/science/article/pii/S0957417407006719). We have used IBM SPSS Modeller to achieve the same. The Output Analysis Images can be found [here]. 
+In this data analysis exercise, our team has come up with a solution to address business intelligence questions that arose from the Credit Card Data set that we obtained from [Kaggle](http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients). A relevant paper on the same data set is present [here](https://www.sciencedirect.com/science/article/pii/S0957417407006719). We have used IBM SPSS Modeller to achieve the same. The Output Analysis streams and Images can be found in their respective folders.  
 
 ## About the Dataset:
 
